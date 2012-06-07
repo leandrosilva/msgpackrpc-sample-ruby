@@ -6,7 +6,7 @@ This is a sample of a MessagePack-RPC client/server application built in Ruby. R
 
 * [The MessagePack Project](http://msgpack.org)
 * [MessagePack Wiki](http://wiki.msgpack.org/display/MSGPACK/Home)
-* [QuickStart for Java](http://wiki.msgpack.org/display/MSGPACK/QuickStart+for+Java)
+* [QuickStart for Ruby](http://wiki.msgpack.org/display/MSGPACK/QuickStart+for+Ruby)
 
 ## Usage
 
