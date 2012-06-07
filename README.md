@@ -13,8 +13,8 @@ This is a sample of a MessagePack-RPC client/server application built in Ruby. R
     $ git clone https://github.com/leandrosilva/msgpackrpc-sample-ruby
     $ cd msgpackrpc-sample-ruby
     $ gem install msgpack-rpc
-    $ ./bin/msgpack_rpc_server.rb        # at terminal 1
-    $ ./bin/lib/msgpack_rpc_client.rb    # at terminal 2
+    $ ./bin/msgpack_rpc_server.rb    # at terminal 1
+    $ ./bin/msgpack_rpc_client.rb    # at terminal 2
 
 ## What else?
 
